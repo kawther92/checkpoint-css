@@ -1,0 +1,66 @@
+
+html, body {
+  margin: 0;
+  padding: 0;
+  }
+  .header{
+         width: 0%;
+         height: 0vh;
+         padding: 0 10%;
+        }
+  span{font-size: x-large;
+       font-style: italic;
+       color: rgb(123, 134, 196);
+       margin-block:;
+  }
+   nav{margin-top: auto;
+  }
+  .topnav{ width: 100px;
+                font-size: x-large;
+                 display: inline;
+                 align-items: center;
+                 justify-content: space-between;
+                 padding: 10px 0; }
+  .title{ width: fit-content;  
+          height: 50px; 
+          color: rgb(91, 141, 235);
+          text-justify:center;  
+        }             
+  body {font-family: 'Roboto', sans-serif;
+  background-color: rgb(117, 101, 163); 
+  font-size: 100%;
+  color:black;
+  background-color:rgb(80, 116, 150);
+  background-image:url("https://img.freepik.com/photos-premium/fond-motifs-feuilles-calathea-lutea-gris_53876-149681.jpg?w=740");
+ 
+  }
+ h1 {
+  font-size: 200%; 
+  color: rgb(56, 56, 197); 
+  text-align: center;
+  text-decoration: overline;
+  }
+ ul,li {
+  color: rgb(219, 81, 173); 
+  }
+  p { color: #6e684e; 
+    font-family: 'Helvetica Neue', sans-serif;
+     font-size: 14px; line-height: 24px;
+      margin: 0 0 24px; text-align: justify;
+       text-justify: inter-word; }
+  button {color: rgb(197, 56, 122)}
+ a:link {
+  color: rgb(58, 9, 51);
+  text-decoration: underline;
+  background-color: #dddddd;
+}
+  }
+ a:visited {
+  color: rgb(184, 44, 226);
+  }
+ a:hover {
+  color: rgb(219, 129, 129);
+  text-decoration: none;
+ }
+ a:active, a:focus {
+  color: rgb(174, 0, 255);
